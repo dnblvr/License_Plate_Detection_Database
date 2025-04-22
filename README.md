@@ -46,6 +46,7 @@ You will receive feedback when the terminal gives the coordinates of the figure.
 This realigns the plates and places the folder onto `<main_folder>/b_cropped_plates` folder.
 
 One of the results is this:
+
 !['ROCKESQ' in full view](b_cropped_plates/0ba0aa78-a3f8-43a3-9b72-0f47b34ecc94_jpg.rf.82c40982db0b2ba7a0209a797cb3bd07.jpg)
 
 ---
