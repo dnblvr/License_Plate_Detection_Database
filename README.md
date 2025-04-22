@@ -12,12 +12,15 @@ There were the international-based license plates. These were excluded from the 
 
 ![International plate whose ID says 'Roma EO5426'](a_invalid_images/0_6_hr_png_jpg.rf.cc7ebcb67b73d53500e915d148e2677d.jpg)
 ![International plate whose ID says 'WAE92D'](a_invalid_images/0_15_hr_png_jpg.rf.3f683f751985139c09e087e25dff7ba6.jpg)
-
 ## US License Plate Images
 
 There were license plates from California. There were others from other states. Because we just needed the dataset, these types of plate were processed, and some were discarded depending on if they were similar enough to the CA styling. Here are some examples:
 
 !['GDKARMA'](a_images/0a4ada79-be27-4c1e-8243-31dc9c35c134_jpg.rf.9d0c46f14dbea14bc1c4c1bbcb91a5f4.jpg)
+!['LVN SLO'](a_images/0af39d30-64c3-44f7-a5de-2ea676f02381_jpg.rf.8e2144f61977535ef5efce2c775f952a.jpg)
+![''ROCKESQ](a_images/0ba0aa78-a3f8-43a3-9b72-0f47b34ecc94_jpg.rf.82c40982db0b2ba7a0209a797cb3bd07.jpg)
+![Texan plate that says 'HVT1972'](a_images/1_jpg.rf.78e1ed7a02f2c2ca5af34ab9b5bc61de.jpg)
+!['ACTS2:38'](a_images/130_0056_jpg.rf.6c53f0a37fea46f0fbf6a1fc7aa0d459.jpg)
 
 
 ## Multi-License Plate Images
