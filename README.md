@@ -10,8 +10,8 @@ There were three broad categories of image for license plate detection purposes.
 
 There were the international-based license plates. These were excluded from the process entirely.
 
-![International plate whose ID says 'Roma EO5426'](invalid_images/0_6_hr_png_jpg.rf.cc7ebcb67b73d53500e915d148e2677d.jpg)
-![alt text](invalid_images/0_15_hr_png_jpg.rf.3f683f751985139c09e087e25dff7ba6.jpg)
+![International plate whose ID says 'Roma EO5426'](a_invalid_images/0_6_hr_png_jpg.rf.cc7ebcb67b73d53500e915d148e2677d.jpg)
+![International plate whose ID says 'WAE92D'](a_invalid_images/0_15_hr_png_jpg.rf.3f683f751985139c09e087e25dff7ba6.jpg)
 
 ## US License Plate Images
 
