@@ -55,7 +55,7 @@ Next, run `segmentation.py`. You will be given three windows, each of which will
 
 ![alt text](<screenshots/sc_2.png>)
 
-Once the choice is picked, the resulting image is displayed. Make sure that the foreground is black and the background is white. if the first two options are picked, give the letter information onto the terminal. Once done, they should go to `<main_folder>/c_cropped_letters` folder.
+Once the choice is picked, the resulting character image is displayed. Make sure that the foreground is black and the background is white. if the first two options are picked, give the character label onto the terminal. Input characters will be capitalized automatically. Once done, they should go to `<main_folder>/c_cropped_letters` folder. Their new names are `<char> - <license_plate_img_name>.png`.
 
 Here are the detected letters of the `ROCKESQ` plate:
 
